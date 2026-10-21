@@ -104,6 +104,7 @@ Over 176 production-ready plugins that extend Claude Code with domain-specific c
 | [aws-helper](plugins/aws-helper/) | AWS service configuration and deployment automation |
 | [azure-helper](plugins/azure-helper/) | Azure service configuration and deployment automation |
 | [backend-architect](plugins/backend-architect/) | Backend service architecture design with endpoint scaffolding |
+| [big-agentic-brain](https://github.com/enhesa/big-agentic-brain) | Shared, self-hosted memory for a team's Claude Code agents. Agents search before work, record fixes and react to each other's entries over MCP; one container with SQLite, no LLM keys. Apache-2.0 |
 | [bug-detective](plugins/bug-detective/) | Debug issues systematically with root cause analysis and execution tracing |
 | [Bouncer](https://github.com/buildingopen/bouncer) | Independent quality gate that uses Gemini to audit Claude Code's output. Includes Stop hook (automatic), quick audit skill, and deep audit with full tool access. One-liner install. |
 | [brooks-lint](https://github.com/hyhmrright/brooks-lint) | AI code reviews grounded in six classic engineering books (Brooks, Fowler, Martin, McConnell, Hunt & Thomas, Evans). Diagnoses code across 6 decay risk dimensions with structured findings (Symptom → Source → Consequence → Remedy). Supports PR review, architecture audit, tech debt assessment, and test quality review. v0.6 adds Mermaid dependency graphs. |
