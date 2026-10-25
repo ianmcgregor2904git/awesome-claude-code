@@ -1231,3 +1231,5 @@ Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [skylv-diff-viewer](https://github.com/SKY-lv/diff-viewer) - Diff comparison
 
 [ClawHub](https://clawhub.ai/skylv) | [Landing](https://sky-lv.github.io/awesome-openclaw-skills)
+
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - Non-custodial 3-line Web3 checkout widget, REST API, and remote MCP payment receipt verifier (`wDOOM` on Base Mainnet & `DOOM` Layer-1).
